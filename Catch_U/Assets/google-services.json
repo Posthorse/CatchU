@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595996852313",
+    "firebase_url": "https://catchu-bb060.firebaseio.com",
+    "project_id": "catchu-bb060",
+    "storage_bucket": "catchu-bb060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595996852313:android:6ff9b05eae2bafbe7a3148",
+        "android_client_info": {
+          "package_name": "com.Posthorse.CatchU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595996852313-gl6sm6kisdkdp8ekjimf40i3mum899p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlegmvP76T3_axhMuIQfKVIBWsXHs3bx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595996852313-gl6sm6kisdkdp8ekjimf40i3mum899p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
